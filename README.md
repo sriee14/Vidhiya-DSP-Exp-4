@@ -26,9 +26,6 @@ To visualize the yearly trend of company revenue and expenses from 2017 to 2023 
 
 ## Functions and Methods Used
 
-
-## Functions and Methods Used
-
 | **Category** | **Function / Method** | **Purpose / Description** |
 |---|---|---|
 | **Numerical Operations** | `np.arange()` | Generates evenly spaced integer years (`2017` through `2023`). |
@@ -109,4 +106,5 @@ plt.show()
 
 
 ## Result
+
 The program successfully creates datasets for yearly company revenue and expenses and renders an annotated multi-line comparison chart using Matplotlib.
